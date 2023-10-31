@@ -5,7 +5,7 @@ Repositories added to the Beckhoff-Switzerland organization with the prefix "CHA
 The following components are on the current roadmap:
 
 * [X] Base (identifiers, lists, asynchronous results)
-* [ ] NC (generic drive axis implementation)
+* [X] NC (generic drive axis implementation)
 * [X] XTS (station-oriented design approach)
 * [ ] XPlanar (station-oriented design approach)
 * [ ] Vision (synchronized camera and illumination)
