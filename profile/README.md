@@ -7,7 +7,7 @@ The following components are on the current roadmap:
 * [X] Base (identifiers, lists, asynchronous results)
 * [X] NC (generic drive axis implementation)
 * [X] XTS (station-oriented design approach)
-* [ ] XPlanar (station-oriented design approach)
+* [X] XPlanar (station-oriented design approach)
 * [ ] Vision (synchronized camera and illumination)
 
 Each component will consist of a static class implementation (source project of the library) and a sample implementation that is indicated with the suffix ("*_Example").
