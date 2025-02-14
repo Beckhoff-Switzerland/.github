@@ -5,10 +5,10 @@ Repositories added to the Beckhoff-Switzerland organization with the prefix "CHA
 The following components are on the current roadmap:
 
 * [X] Base (identifiers, lists, asynchronous results) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_Base)
-* [X] NC (generic drive axis implementation) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_NC) / [Example](https://github.com/Beckhoff-Switzerland/CHALET_NC_Example)
-* [X] XTS (station-oriented design approach) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_XTS) / [Example](https://github.com/Beckhoff-Switzerland/CHALET_XTS_Example)
-* [X] XPlanar (station-oriented design approach) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_XPlanar) / [Example](https://github.com/Beckhoff-Switzerland/CHALET_XPlanar_Example)
-* [X] Vision (synchronized camera and illumination) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_Vision) / [Example](https://github.com/Beckhoff-Switzerland/CHALET_Vision_Example)
+* [X] NC (generic drive axis implementation) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_NC) / **[Example](https://github.com/Beckhoff-Switzerland/CHALET_NC_Example)**
+* [X] XTS (station-oriented design approach) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_XTS) / **[Example](https://github.com/Beckhoff-Switzerland/CHALET_XTS_Example)**
+* [X] XPlanar (station-oriented design approach) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_XPlanar) / **[Example](https://github.com/Beckhoff-Switzerland/CHALET_XPlanar_Example)**
+* [X] Vision (synchronized camera and illumination) [PLC-Library](https://github.com/Beckhoff-Switzerland/CHALET_Vision) / **[Example](https://github.com/Beckhoff-Switzerland/CHALET_Vision_Example)**
 
 Each component will consist of a static class implementation (source project of the library) and a sample implementation that is indicated with the suffix ("*_Example").
 
